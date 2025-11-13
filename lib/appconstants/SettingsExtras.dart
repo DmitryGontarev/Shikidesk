@@ -1,0 +1,11 @@
+
+/// Класс с константами различных настроек
+class SettingsExtras {
+
+  ////////////////////////////////////////////////////////////////////////
+  // USER
+  ////////////////////////////////////////////////////////////////////////
+  static const userId = "USER_ID";
+  static const userBrief = "USER_BRIEF";
+  static const userStatus = "USER_STATUS";
+}
