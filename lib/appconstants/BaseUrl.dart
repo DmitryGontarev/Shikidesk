@@ -5,8 +5,14 @@ class BaseUrl {
   // URL-адресы сайта
   ///////////////////////////////////////////////////////////////////////////
 
+  /// Первая часть доменного имени сайта Shikimori
+  static const String domainFirst = "shiki";
+
+  /// Вторая часть доменного имени сайта Shikimori
+  static const String domainSecond = "one";
+
   /// Базовый URL-адрес сайта Shikimori
-  static const String shikimoriBaseUrl = "https://shikimori.one/";
+  static const String shikimoriBaseUrl = "https://$domainFirst.$domainSecond/";
 
   /// Второй базовый URL-адрес для просмотра видео
   static const String shimoriVideoUrl = "https://shimori-us.herokuapp.com/";

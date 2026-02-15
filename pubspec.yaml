@@ -58,10 +58,10 @@ dependencies:
 
   shared_preferences: ^2.2.0
 
-  media_kit: ^1.1.10
-  media_kit_video: ^1.2.4
-  media_kit_libs_video: ^1.0.4
-  media_kit_libs_audio: ^1.0.4
+  media_kit: ^1.2.6
+  media_kit_video: ^2.0.1
+  media_kit_libs_video: ^1.0.7
+  media_kit_libs_audio: ^1.0.7
 
   file_picker: ^10.3.6
 
