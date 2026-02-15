@@ -27,7 +27,7 @@ void main() async {
     /// По умолчанию окно всегда открывается по координатам x=10, y=10
     WindowManager.instance.setPosition(const Offset(10, 10));
 
-    /// Максимальное разрешение 720p (HD)
+    /// Минимальное разрешение 720p (HD)
     WindowManager.instance.setMinimumSize(const Size(1280, 720));
 
     /// Максимальное разрешение 8K
