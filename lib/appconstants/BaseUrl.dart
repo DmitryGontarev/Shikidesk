@@ -6,10 +6,10 @@ class BaseUrl {
   ///////////////////////////////////////////////////////////////////////////
 
   /// Первая часть доменного имени сайта Shikimori
-  static const String domainFirst = "shiki";
+  static const String domainFirst = "shikimori";
 
   /// Вторая часть доменного имени сайта Shikimori
-  static const String domainSecond = "one";
+  static const String domainSecond = "io";
 
   /// Базовый URL-адрес сайта Shikimori
   static const String shikimoriBaseUrl = "https://$domainFirst.$domainSecond/";
